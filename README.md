@@ -10,7 +10,7 @@ Languages
 
 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=vite,vue,react,svelte,tailwind,fastapi,gin,electron,tauri" />
+<img src="https://skillicons.dev/icons?i=vite,vue,react,svelte,tailwind,fastapi,electron,tauri" />
 
 Tools & Platforms
 
