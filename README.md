@@ -1,16 +1,19 @@
-## Hi there 👋
+## Good Night 🌙
 
-<!--
-**xswt442-cmd/xswt442-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm xswt, still learning, building, enjoying.
 
-Here are some ideas to get you started:
+## Stuff I've Touched
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,rust" />
+
+Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=vite,vue,react,svelte,tailwind,fastapi,gin,electron,tauri" />
+
+Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=nodejs,docker,cloudflare,vercel,postgres" />
+
+<sub>Not an expert. Just curious.</sub>
